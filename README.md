@@ -1,6 +1,6 @@
 # Web-Development
 
-# movie trailer project
+1. movie trailer project
 
 The project was done when I took the online class on Udacity. The website contians several trailers of my favorite movies. When you click on the specific moive picture, a window of trailer will show on the current website. The project was implemented in Python.
 
